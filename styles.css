@@ -1,0 +1,5 @@
+/* Esconde banners de "novos posts" quando o X tentar sugerir refresh do topo. */
+div[role="button"] span,
+a[role="link"] span {
+  text-wrap: balance;
+}
