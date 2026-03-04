@@ -15,3 +15,5 @@ Extension de Chrome que evita que X (antes Twitter) actualice la timeline automa
 3. Espera a que lleguen publicaciones nuevas.
 4. El feed no debe saltar/actualizarse solo mientras estas leyendo.
 5. El refresh manual (`F5`) sigue funcionando normalmente.
+
+Soporte en X/Twitter: `@IsaacCelsoa`

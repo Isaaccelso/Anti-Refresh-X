@@ -15,3 +15,5 @@ Chrome extension that prevents X (formerly Twitter) from auto-refreshing the tim
 3. Wait for new posts to arrive.
 4. The feed should not jump/refresh automatically while you are reading.
 5. Manual refresh (`F5`) still works normally.
+
+Support on X/Twitter: `@IsaacCelsoa`

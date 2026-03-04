@@ -15,3 +15,5 @@ Extensao para Chrome que impede o X (antigo Twitter) de atualizar a timeline aut
 3. Aguarde novos posts aparecerem.
 4. O feed nao deve pular/atualizar sozinho enquanto voce esta lendo.
 5. Refresh manual (`F5`) continua funcionando normalmente.
+
+Suporte no X/Twitter: `@IsaacCelsoa`
